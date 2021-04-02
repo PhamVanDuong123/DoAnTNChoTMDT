@@ -1,0 +1,161 @@
+#01 Tìm hiếu về thương mại điện tử nói chung
+
+-Thương mại điện tử là gì?
+
+	Thương mại điện tử, hay còn gọi là e-commerce, e-comm hay EC, là sự mua bán sản phẩm hay dịch vụ trên các hệ thống điện tử như Internet và các mạng máy tính.
+
+-Các loại TMĐT(6 loại):
+
+	+Doanh nghiệp với Doanh nghiệp (B2B)
+Thương mại điện tử B2B đề cập đến tất cả các giao dịch điện tử của hàng hóa được thực hiện giữa hai công ty. Loại thương mại điện tử này thường giải thích mối quan hệ giữa các nhà sản xuất sản phẩm và nhà phân phối sản phẩm đến tay người tiêu dùng.
+ 
+	+Doanh nghiệp với Khách hàng (B2C)
+Đây là hình thức thương mại điện tử phổ biến nhất, thể hiện mối quan hệ mua bán giữa doanh nghiệp với người tiêu dùng. Mua sắm dưới dạng thương mại điện tử giúp người dùng dễ dàng so sánh giá cũng như xem phản hồi nhận xét của những người dùng trước. Đối với công ty, nó cho phép họ hiểu biết hơn về khách hàng trên góc độ cá nhân.
+
+	+Khách hàng với Khách hàng (C2C)
+Loại thương mại điện tử này bao gồm tất cả các giao dịch điện tử diễn ra giữa người tiêu dùng. Các giao dịch này thường được thực hiện thông qua việc sử dụng các mạng xã hội cá nhân như facebook, instagram và các trang web sàn thương mại điện tử như tiki, shopee. 
+
+	+Khách hàng với Doanh nghiệp (C2B)
+Thương mại điện tử C2B diễn ra khi người tiêu dùng cung cấp dịch vụ hoặc sản phẩm của họ cho các công ty mua hàng. Ví dụ như một nhà thiết kế đồ họa chỉnh logo cho một công ty hoặc một nhiếp ảnh gia chụp ảnh cho một trang web thương mại điện tử.
+
+	+Doanh nghiệp với chính phủ (B2A)
+Hình thức thương mại điện tử này đề cập đến tất cả các giao dịch giữa các công ty và khu vực hành chính công. Loại hình này liên quan đến nhiều dịch vụ, đặc biệt có thể kể đến như an sinh xã hội, việc làm và các văn bản pháp lý.
+
+	+Khách hàng với Chính phủ (C2A)
+Một hình thức phổ biến khác là thương mại điện tử C2A, bao gồm tất cả các giao dịch điện tử giữa các cá nhân và khu vực hành chính công. Ví dụ điển hình là việc khai và nộp thuế thông qua cổng thông tin điện tử của Cơ quan thuế.
+
+-Các ứng dụng:
+
+	+Tài liệu tự động hóa ở chuỗi cung ứng và hậu cần
+	+Hệ thống thanh toán trong nước và quốc tế
+	+Quản lý nội dung doanh nghiệp (số hóa các tài liệu trong doanh nghiệp để 	quản lý)
+	+Nhóm mua
+	+Nhắn tin tức thời (IM)
+	+Nhóm tin
+	+Mua sắm trực tuyến và theo dõi đặt hàng
+	+Ngân hàng điện tử
+	+Văn phòng trực tuyến
+	+Phần mềm giỏ hàng
+	+Trợ lý tự động trực tuyến
+	+Hội thảo truyền thông trực tuyến
+	+Vé điện tử (vé máy bay, vé giải trí điện tử)
+	+Mạng xã hội
+-So sánh TMĐT & TMTT
+	#TMĐT
+
+	Ưu điểm:
+
+Giảm chi phí sản xuất, chi phí tìm kiếm khách hàng, chi phí bán hàng, chi phí tiếp thị.
+
+ Một nhân viên cùng một lúc có thể giao dịch với nhiều khách hàng.
+ Sản phẩm/dịch vụ được giới thiệu trên một Catalogue điện tử phong phú và được cập nhật thường xuyên.
+
+Giúp người tiêu dùng và doanh nghiệp giảm đáng kể thời gian và chi phí giao dịch. Vì việc nhanh chóng thông tin hàng hóa đến người tiêu dùng (mà không phải qua trung gian) có ý nghĩa sống còn trong cạnh tranh kinh doanh.
+Tạo điều kiện tìm kiếm các bạn hàng mới, cơ hội kinh doanh mới trên bình diện trong nước, khu vực và quốc tế.
+
+ Kích thích sự phát triển của ngành công nghệ thông tin và đóng vai trò ngày càng lớn trong nền kinh tế. Lợi ích này còn có ý nghĩa đặt biệt quan trong đối với các nước đang phát triển, có thể tạo ra một bước nhảy vọt, tiến kịp các nước phát triển trong một thời gian ngắn nhất.
+
+	Nhược điểm:
+
+Có thể gặp vấn đề khả năng tương thích của phần mềm / phần cứng. Ví dụ như phần mềm Thương mại điện tử có thể không tương thích với một vài hệ điều hành hoặc một vài hợp phần
+
+Chi phí khởi tạo: Chi phí để tạo / xây dựng ứng dụng Thương mại điện tử có thể rất cao. Có thể bị đình trệ trong việc vận hành hệ thống Thương mại điện tử do lỗi hoặc thiếu sót kinh nghiệm.
+Sự tin tưởng của người dùng: Người dùng có thể không tin tưởng các trang web hoặc người bán vô danh
+Bảo mật / Riêng tư: Khó mà đảm bảo sự bảo mật và sự riêng tư khi giao dịch trực tuyến.
+
+Khi mua sắm trực tuyến, bạn không thể chạm hoặc cảm nhận sản phẩm bằng các giác quan trên cơ thể.
+
+   	#TMTT
+
+	Ưu điểm:
+
+Kênh phân phối truyền thống có số lượng thành viên trong hệ thống nhiều. Trung gian phân phối đa dạng. Gía cả thường rẻ hơn các showroom, kênh phân phối hiện đại.
+Kênh phân phối hiện đại: nhà sản xuất có thể quản lý trực tiếp. Dễ dàng tiếp cận với người  tiêu dùng. Có hệ thống bán lẻ lớn và có thương hiệu.
+
+	Nhược điểm:
+
+Người mua phải bỏ nhiều thời gian cũng như công sức trong quá trình đi đến các hàng để chọn lựa và so sánh giá 
+Việc mua bán bị giới hạn trong một phạm vi nhất định 
+Khó kiểm soát về giá cả trên thị trường.
+
+link tham khảo: https://magenest.com/vi/thuong-mai-dien-tu-la-gi/
+
+#02/ Tìm hiểu thương mại điện tử C2C
+
+-Mô hình C2C là gì?
+
+Mô hình C2C ở đây được dịch ra là Consumer to Consumer. Đây là hình thức kinh doanh giữa cá thể với cá thể.  Trong đó cả người mua và người bán sản phẩm hay dịch vụ đều là cá nhân không phải doanh nghiệp. Mô hình C2C được sử dụng theo nhiều cách khác nhau trên Internet.
+
+-Một số hoạt động của mô hình C2C:
+
+Nổi tiếng nhất trong mô hình này là hoạt động đấu giá
+Các hình thức quảng cáo tùy theo sản phẩm và dịch vụ của người bán
+Một số dịch vụ thiên về lí do cá nhân
+Sử dụng để bán cho khách hàng những tài sản ảo
+Ngoài ra còn có một số dịch vụ hỗ trợ khác
+
+-Một số ví dụ về mô hình C2C:
+
+Mô hình C2C dạng dịch vụ hỗ trợ
+
+Khi các cá nhân mua sản phẩm hoặc dịch vụ của các cá nhân trực tuyến khác (C2C) họ thường mua từ những người xa lạ.
+Các vấn đề về đảm bảo chất lượng, nhận thanh toán và ngăn chặn gian lận là rất quan trọng trong C2C.
+Một dịch vụ giúp C2C để trả các khoản thanh toán qua công ty trung gian như PayPal ( paypal.com).
+
+Tham khảo: Paypal là gì? Hướng dẫn cách tạo tài khoản paypal không cần thẻ VISA
+
+#03/ Tìm hiểu về shopee
+
+Shopee đã chứng kiến tốc độ phát triển mạnh mẽ tại Việt Nam. Tính tới tháng 7/2016, ứng dụng đã ghi nhận hơn 1,8 triệu lượt tải và hơn 3 triệu sản phẩm đăng bán tại thị trường này. “Việt Nam đang thể hiện tiềm năng trở thành thị trường thương mại điện tử trọng điểm với Shopee. Nhờ có Shopee, người bán có thể dễ dàng tiếp cận thêm nhiều người mua với chi phí cực thấp, và người mua có thêm vô vàn sự lựa chọn đa dạng ngay trong tầm tay mình.” ông Pine Kyaw, Giám đốc điều hành Shopee Việt Nam khẳng định.
+
+Những điểm mạnh của Shopee ngày nào giờ đây đang trở thành rào cản trên con đường phát triển của doanh nghiệp này.
+
+Theo đó, đóng vai trò là người kết nối, Shopee rất khó có thể kiểm soát nguồn hàng của người bán trên nền tảng của mình. Ở Việt Nam không thiếu các trường hợp người bán hàng kém chất lượng đã để lại thiệt hại nặng nề cho các doanh nghiệp thương mại điện tử
+
+Bên cạnh đó, chiến lược của Shopee đã được Alibaba áp dụng. Theo đó, họ sẽ gia nhập thị trường thông qua mảng C2C, vừa ít vốn vừa tiếp cận được diện rộng sau đó mở rộng lên khách hàng cao cấp. Nhưng nếu không giải quyết bài toán niềm tin, Shopee có thể hụt chân trước khi đi đến đích.
+
+Theo ông Pine, ở thị trường Việt Nam, có 2 mô hình đang giải quyết bài toán niềm tin. Nhóm thứ nhất xây dựng đội ngũ kiểm soát chặt chẽ và xác nhận từng sản phẩm trước khi đưa ra thị trường.  Cách này tốn rất nhiều chi phí. Nhóm thứ 2 thì ngược lại, không tốn gì vì hầu như không kiểm soát và phó mặc cho người tiêu dùng, tiêu biểu là Facebook.
+
+“Ở Shopee, chúng tôi cố gắng đạt được sự cân bằng của 2 mô hình. Shopee tổ chức các chương trình đào tạo bán hàng cho người bán nhưng cũng rất quyết liệt sàng lọc những người bán kém chất lượng”, ông Pine nói. Một trong những chính sách tạo uy tín là “Shopee đảm bảo”, theo ông Pine, dù là thanh toán trực tuyến hay thanh toán khi nhận hàng, chỉ khi nào khách hàng xác nhận sản phẩm đúng như đã đặt thì chúng tôi mới chuyển tiền cho người bán… Trên thực tế đã có một số thương hiệu có tiếng tham gia Shopee như Samsung, Xiaomi, Pigeon, Bobby…
+
+Khi được hỏi liệu Shopee có chuyển sang mô hình Marketplace, vừa nhập hàng về bán vừa mở cho các cửa hàng khác bán như Lazada hay Tiki hay không, ông Pine cho biết Công ty luôn cân nhắc tất cả các hình thức phù hợp và có tiềm năng nhưng chưa phải bây giờ. Hiện nay, mục tiêu chính của chúng tôi là đa dạng sự lựa chọn cho người sử dụng”, ông Pine nói.
+
+HOẠT ĐỘNG TRÊN SHOPEE
+
+Mua bán
+
+Để trải nghiệm “mua-bán” cùng Shopee được trọn vẹn, bạn cần nắm rõ 3 định nghĩa cơ bản sau: người bán, người mua và thành viên.
+
+	+Người Bán: là thương nhân, tổ chức, cá nhân có nhu cầu sử dụng dịch vụ của Shopee bao gồm: tạo lập gian hàng, đăng tin giới thiệu sản phẩm/dịch vụ, và hoặc khuyến mại sản phẩm/dịch vụ.
+
+	+Người Mua: là thương nhân, tổ chức, cá nhân có nhu cầu tìm hiểu thông tin về sản phẩm/dịch vụ được đăng bán trên Shopee. Người Mua bắt buộc đăng ký tài khoản để tham gia giao dịch mua bán.
+
+	+Thành viên: bao gồm cả Người Bán và Người Mua
+
+Vận chuyển và giao hàng nhanh chóng
+
+Dịch vụ vận chuyển và giao hàng Shopee rất dễ dàng và không chút rắc rối! Shopee bảo vệ người dùng bằng cách cung cấp hóa đơn xác nhận mua hàng. Nếu người mua nhận hàng qua đường Bưu điện, họ có thể tự xác minh hóa đơn nhận hàng để gửi thanh toán trực tiếp cho người bán. Bạn cũng có thể kéo dài thời gian xác định mua hàng bằng cách sử dụng quyền lợi “Gia hạn 3 ngày 1 lần duy nhất”. Nếu bạn chưa nhận hàng, bạn có thể đăng ký đơn xin hoàn trả trong thời hạn 3 ngày. Thời gian vận chuyển có thể mất đến vài ngày, vì thế bạn nên kiểm tra cẩn thận thời gian vận chuyển nếu bạn muốn món hàng của mình được giao đúng hẹn.
+
+Tuỳ chọn cách thức thanh toán
+
+Một ưu điểm nữa của Shopee đó là bạn có thể linh hoạt chọn cách thức thanh toán phù hợp với bạn. Shopee đảm bảo an ninh tuyệt đối khi bạn thanh toán bằng thẻ tín dụng, thẻ VISA hoặc MasterCard. Bên cạnh đó, người mua và người bán có thể tự sắp xếp giao dịch, thanh toán bằng tài khoản cá nhân. Hoặc bạn có thể thanh toán sau khi đã nhận được món hàng. Dù dưới hình thức nào, bạn cũng sẽ có được sự hài lòng tuyệt đối khi mua bán cùng Shopee!
+
+Tham khảo: https://blog.abit.vn/mo-hinh-kinh-doanh-shopee/
+
+1. Mô hình kinh doanh của shopee
+
+Mô hình kinh doanh Shopee Việt Nam ban đầu là C2C (Consumer-to-Consumer). Trung gian trong quy trình mua bán giữa cá nhân với cá nhân. Tuy nhiên hiện nay, Shopee đã mở rộng thêm mô hình giao dịch B2C (Business-to-Consumer). Trung gian trong hoạt động mua bán từ doanh nghiệp đến người tiêu dùng. Với sự ra mắt Shopee Mall vào năm 2017. Sàn cam kết cung cấp hàng chính hãng từ những thương hiệu doanh nghiệp hàng đầu và các nhà bán lẻ lớn tại Việt Nam.
+
+2. Ưu điểm của mô hình kinh doanh Shopee
+
+Với nền tảng mua và bán sản phẩm trực tuyến theo mô hình kinh doanh C2C. Shopee kết nối bất cứ ai có nhu cầu mua hoặc bán sản phẩm với số lượng tùy ý. Nghĩa là, chỉ cần sở hữu 1 tài khoản Shopee cùng thiết bị di động kết nối internet. Bạn có thể trở thành người mua, người bán. Hoặc trải nghiệm đồng thời cả 2 vài trò này trên Shopee. Bạn trở thành người bán khi thực hiện hoạt động marketing quảng bá khi đăng tải hình ảnh. Hay thông tin, giá sản phẩm qua ứng dụng Shopee. Đồng thời sẽ là người mua khi tìm kiếm sản phẩm rồi đưa ra quyết định đặt mua.
+
+Mặt khác, với mô hình C2C, Shopee không những là một sàn giao dịch TMĐT thông thường. Nó còn kết hợp các tính năng của 1 mạng xã hội. Người mua và người bán có thể kết nối với nhau. Được trao đổi trực tiếp qua các tính năng như: chat, trả giá, đánh giá, theo dõi và chia sẻ sản phẩm. Những tính năng giúp người mua thu thập được nhiều thông tin hơn về sản phẩm và người bán trước khi đặt hàng. Liên hệ trực tuyến cũng giúp xóa bỏ khoảng cách về không gian, thời gian giữa người mua và người bán.
+
+Hơn nữa, mô hình C2C đã mang lại cho Shopee sự đa dạng phong phú của sản phẩm. Bởi ai cũng có thể trở thành người mua hoặc/và người bán. Còn mô hình B2C (Shopee Mall) giúp Shopee cung cấp những sản phẩm chính hãng từ những thương hiệu nổi tiếng đến người tiêu dùng. Nâng cao uy tín của dịch vụ.
+
+3. Nhược điểm của mô hình này
+
+Chính vì khởi đầu với mô hình C2C nên Shopee là sàn TMĐT rất khó kiểm soát chất lượng sản phẩm và độ uy tín của người bán. Hệ quả là Shopee thường phải nhận nhiều khiếu nại và bóc phốt từ người mua hàng. Cá biệt, có trường hợp báo chí còn đưa tin rầm rộ về việc bán ma túy, vũ khí. Hay mua/bán điểm số công khai trên Shopee trong nhiều tháng mà không hề bị các doanh nghiệp này phát hiện. Cũng chính vì điều này, Shopee đã phải đưa ra chính sách “Shopee bảo đảm” để bảo vệ người tiêu dùng. Chính sách này nhằm đảm bảo người mua khi nhận được hàng. Và không có bất kỳ khiếu nại nào về sản phẩm thì người bán mới nhận được khoản thanh toán từ người mua.
+
+Một điểm đặc biệt nữa ở mô hình kinh doanh Shopee là tài khoản người mua của bạn cũng có thể sử dụng làm tài khoản bán hàng trên chính sàn giao dịch này. Do đó, Shopee xem cả người mua và người bán ở vị trí tương đương. Nên trong trường hợp bạn mua hàng mà người người bán giao hàng chậm hoặc không giao hàng thì Shopee chỉ đơn giản là ghi nhận và thông báo hủy đơn hàng. Mà không có bất kỳ một tin nhắn xin lỗi nào đâu nhé. Có thể hình dung, Shopee là cầu nối cho các cá nhân gặp nhau.

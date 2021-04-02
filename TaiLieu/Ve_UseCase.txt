@@ -1,0 +1,128 @@
+Vẽ biểu đồ use case quản lý bán hàng
+
+Các bước xây dựng bản vẽ Use Case
+Bước 1: Thu thập kiến thức liên quan đến hệ thống sẽ xây dựng
+Trước hết, để phân tích hệ thống trên bạn phải có kiến thức về hệ thống thương mại điện tử, chúng ta có thể tìm hiểu thông qua các nguồn sau:
+
+– Xem các trang Web bán hàng qua mạng như amazon, lazada.vn, bkc.vn v.v..
+
+– Xem các hệ thống mẫu về thương mại điện tử nguồn mở như Magento, OpenCart, Spree Commerce v.v…
+
+– Đọc sách, báo về eCommerce
+
+– Hỏi những người chuyên về lĩnh vực này (hỏi chuyên gia)
+
+Lưu ý: Bạn không thể thiết kế tốt được nếu bạn không có kiến thức về lĩnh vực của sản phẩm mà bạn sẽ xây dựng. 
+
+Bước 2: Xác định các Actor
+Bạn hãy trả lời cho câu hỏi “Ai sử dụng hệ thống này?”
+
+Xem xét Website chúng ta nhận thấy:
+
+– Những người muốn mua hàng vào website để xem thông tin. Những người này là Khách hàng tiềm năng (Guest).
+
+– Những người đã đặt hàng vào kiểm tra đơn hàng, thanh toán v.v.. gọi là Khách hàng (Customer).
+
+Về phía đơn vị bán hàng, có những người sau đây tham gia vào hệ thống:
+
+– Người quản lý bán hàng: quyết định nhập hàng, giá bán, quản lý tồn kho, doanh thu, chính sách khuyến mãi.
+
+– Người bán hàng: Tư vấn cho khách hàng, theo dõi đơn hàng, thu tiền, theo dõi chuyển hàng cho khách.
+
+Xem thêm: Các Cửa Hàng Bán Mỹ Phẩm Ở Tphcm, Top 10 Cửa Hàng Bán Mỹ Phẩm Uy Tín Tại Sài Gòn
+
+
+– Quản lý kho: xuất, nhập hàng, quản lý tồn kho
+
+– Quản trị hệ thống: Tạo người dùng, Phân quyền, Tạo cửa hàng
+
+Tiếp theo chúng ta trả lời câu hỏi “Hệ thống nào tương tác với hệ thống này?”
+
+Giả sử ở đây, chúng ta sử dụng dịch vụ của Ngân Lượng để thanh toán trực tuyến và gọi nó là “Cổng thanh toán” thì ta có thêm một Actor tương tác với hệ thống.
+
+Như vậy, chúng ta đã có các Actor của hệ thống gồm: Khách hàng tiềm năng, khách hàng, Người bán hàng, Quản lý Kho, Quản trị hệ thống, Cổng thanh toán
+
+Bạn cần khảo sát và phân tích thêm cũng như hỏi trực tiếp khách hàng để xác định đầy đủ các Actor cho hệ thống.
+
+Bước 3: Xác định Use Case
+Bạn cần trả lời câu hỏi “Actor sử dụng chức năng gì trên hệ thống?”.
+
+Trước tiên, xem xét với Actor “Khách hàng tiềm năng” trên trang bkc.vn để xem họ sử dụng chức năng nào?
+
+– Xem trang chủ
+
+– Xem các sản phẩm theo:
+
++ Theo chủng loại
+
++ Nhà sản xuất
+
++ Tìm kiếm theo văn bản gõ vào
+
+– Xem chi tiết sản phẩm được chọn
+
+– Xem khuyến mãi
+
+– Xem so sánh
+
+– Mua hàng
+
+– Quản lý giỏ hàng
+
+– Chat với người bán hàng
+
+– Đăng ký tài khoản để trở thành khách hàng
+
+Tiếp theo, xem xét Actor “Khách hàng” và nhận thấy họ sử dụng chức năng:
+
+– Đăng nhập
+
+– Xem đơn hàng
+
+– Thanh toán
+
+Tiếp theo, xem xét Actor “Người bán hàng” và họ có thể sử dụng các chức năng:
+
+– Đăng nhập
+
+– Chat với khách hàng
+
+– Theo dõi đơn hàng
+
+– Thu tiền
+
+– Theo dõi chuyển hàng
+
+Tương tự như vậy bạn xác định chức năng cho các Actor còn lại.
+
+Bước 4: Vẽ bản vẽ Use Case
+Trước hết chúng ta xem xét và phân tích các chức năng của “Khách hàng tiềm năng” chúng ta nhận thấy.
+
+– Chức năng xem sản phẩm có 2 cách là chọn loại sản phẩm, nhà sản xuất để xem và gõ vào ô tìm kiếm. Nên chúng ta tách ra làm 2 là Xem sản phẩm và Tìm kiếm.
+
+– Chức năng mua hàng, thực chất là thêm vào giỏ hàng nên có thể xem là chức năng con của quản lý giỏ hàng.
+
+Đặt lại tên cho gọn và xác định các mối quan hệ của chúng, chúng ta có thể vẽ Use Case Diagram cho Actor này như sau:
+
+*
+Hình 1. Bản vẽ Use Case cho Actor “Khách hàng tìm năng”
+
+Tiếp theo, chúng xem xét các chức năng cho Actor “Khách hàng” và nhận thấy chức năng “Thanh toán” thường thực hiện cho từng đơn hàng cụ thể nên có thể nó là chức năng con của “Quản lý đơn hàng”. Ngoài ra, các chức năng Actor này sử dụng không giao với Actor “Khách hàng tiềm năng” nên nó được biểu diễn như sau:
+
+*
+Hình 2. Bản vẽ Use Case cho Actor “Khách hàng”
+
+Tiếp tục xem xét Actor “Người bán hàng” chúng ta nhận thấy:
+
+– Chức năng “Thu tiền” thực tế là thanh toán trực tiếp tại quày cho từng đơn hàng và chức năng “Theo dõi chuyển hàng” được thực hiện trên từng đơn hàng nên nó có thể là chức năng con của “Quản lý đơn hàng”.
+
+– Chức năng “Quản lý đơn hàng” ở đây quản lý cho nhiều khách hàng nên sẽ khác với chức năng “Quản lý đơn hàng” của Actor “Khách hàng” nên để phân biệt chúng ta sửa chức năng “Quản lý đơn hàng ” của Actor “Khách hàng” thành “Quản lý đơn hàng cá nhân”
+
+– Chức năng “Đăng nhập” có thể dùng chung với Actor “Khách hàng”, chức năng Chat dùng chung với Actor “Khách hàng tiềm năng”
+
+Vẽ chúng chung với nhau chúng ta được bản vẽ như sau:
+
+*
+Hình 2. Bản vẽ Use Case khi bổ sung các chức năng cho “Khách hàng tiềm năng”, “Khách hàng” và “Người bán hàng”
+
+Các bạn hãy tiếp tục hoàn tất các chức năng cho các Actor còn lại để có một bản vẽ hoàn chỉnh về Use Case cho hệ thống.
